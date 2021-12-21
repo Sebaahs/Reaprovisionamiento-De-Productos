@@ -1,0 +1,95 @@
+{
+  "customer": {
+    "purchases": [
+      {
+        "number": "B001-002306",
+        "date": "2020-01-01",
+        "products": [
+          {
+            "sku": "101",
+            "name": "Cat Chow 1KG"
+          },
+          {
+            "sku": "102",
+            "name": "Tidy Cats 2KG"
+          }
+        ]
+      },
+      {
+        "number": "B001-002307",
+        "date": "2020-01-15",
+        "products": [
+          {
+            "sku": "103",
+            "name": "Royal canin cat ultra light pouch"
+          }
+        ]
+      },
+      {
+        "number": "B001-002308",
+        "date": "2020-02-05",
+        "products": [
+          {
+            "sku": "101",
+            "name": "Cat Chow 1KG"
+          } ]
+      },
+      {
+        "number": "B001-002309",
+        "date": "2020-03-03",
+        "products": [
+          {
+            "sku": "101",
+            "name": "Cat Chow 1KG"
+          },
+          {
+            "sku": "102",
+            "name": "Tidy Cats 2KG"
+          }
+        ]
+      },
+      {
+        "number": "B001-002310",
+        "date": "2020-09-03",
+        "products": [
+          {
+            "sku": "101",
+            "name": "Cat Chow 1KG"
+          },
+          {
+            "sku": "102",
+            "name": "Tidy Cats 2KG"
+          }
+        ]
+      },
+      {
+        "number": "B001-002311",
+        "date": "2020-10-01",
+        "products": [
+          {
+            "sku": "101",
+            "name": "Cat Chow 1KG"
+          },
+          {
+            "sku": "102",
+            "name": "Tidy Cats 2KG"
+          }
+        ]
+      },
+      {
+        "number": "B001-002312",
+        "date": "2020-11-06",
+        "products": [
+          {
+            "sku": "101",
+            "name": "Cat Chow 1KG"
+          },
+          {
+            "sku": "102",
+            "name": "Tidy Cats 2KG"
+          }
+        ]
+      }
+    ]
+  }
+}
